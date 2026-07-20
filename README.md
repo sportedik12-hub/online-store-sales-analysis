@@ -63,6 +63,6 @@ data/orders.csv        — Source data
 - Analysis of customers, products, countries, and revenue
 
 ## Summary
-In this project, I analyzed online store sales to identify the most profitable customers, countries, and products. I calculated key business metrics and applied advanced SQL techniques, including Common Table Expressions (CTEs) and window functions, to generate meaningful business insights.
+
 
 In this project, I analyzed online store sales to identify the most profitable customers, countries, and products. I calculated key business metrics and applied advanced SQL techniques, including Common Table Expressions (CTEs) and window functions, to generate meaningful business insights.
