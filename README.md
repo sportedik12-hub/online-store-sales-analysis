@@ -1,37 +1,36 @@
-Анализ продаж интернет-магазина
+# Online Store Sales Analysis
 
-Ключевые навыки
+## Key Skills
 
 - Python
 - SQL (PostgreSQL)
-- Excel(пока что базово)
-- Анализ данных
-- Работа с CSV
-- Агрегация данных
-- Оконные функции
-- CTE
-- Бизнес-анализ
+- Excel (Basic level)
+- Data Analysis
+- CSV Processing
+- Data Aggregation
+- Window Functions
+- Common Table Expressions (CTE)
+- Business Analysis
 
-
-# Используемые технологии
+## Technologies Used
 
 - Python
 - PostgreSQL
 - SQL
 
-#Выполненные задачи
+## Completed Tasks
 
-- Расчет общей выручки
-- Поиск топ-клиентов
-- Анализ стран по выручке
-- Анализ товаров
-- Анализ отмененных заказов
-- Расчет среднего чека
-- Сегментация клиентов
-- Ранжирование с использованием оконных функций
-- Формирование бизнес-выводов
+- Calculated total revenue
+- Identified top customers
+- Analyzed revenue by country
+- Analyzed products
+- Analyzed canceled orders
+- Calculated the average order value
+- Segmented customers
+- Ranked data using SQL window functions
+- Generated business insights
 
-## Использованные SQL-конструкции
+## SQL Features Used
 
 - SELECT
 - WHERE
@@ -47,18 +46,23 @@
 - SUM() OVER()
 - AVG() OVER()
 
-#Структура проекта
+## Project Structure
 
-python/analysis.py — анализ данных на Python
-sql/analysis.sql — SQL-запросы
-excel/dashboard.xlsx — дашборд в Excel
-data/orders.csv — исходные данные
+```text
+python/analysis.py     — Python data analysis
+sql/analysis.sql       — SQL queries
+excel/dashboard.xlsx   — Excel dashboard
+data/orders.csv        — Source data
+```
+## Project Overview
 
-Проект: Анализ продаж интернет-магазина
+**Project:** Online Store Sales Analysis
 
-Python (обработка CSV и расчет бизнес-метрик)
-PostgreSQL (SQL-запросы, CTE, оконные функции)
-Анализ клиентов, товаров, стран и выручки
+- Python (CSV processing and business metrics calculation)
+- PostgreSQL (SQL queries, CTEs, and window functions)
+- Analysis of customers, products, countries, and revenue
 
-#Итог
-В рамках проекта были проанализированы продажи интернет-магазина, определены наиболее прибыльные клиенты, страны и товары, рассчитаны ключевые бизнес-метрики и применены современные возможности SQL, включая оконные функции и CTE.
+## Summary
+In this project, I analyzed online store sales to identify the most profitable customers, countries, and products. I calculated key business metrics and applied advanced SQL techniques, including Common Table Expressions (CTEs) and window functions, to generate meaningful business insights.
+
+In this project, I analyzed online store sales to identify the most profitable customers, countries, and products. I calculated key business metrics and applied advanced SQL techniques, including Common Table Expressions (CTEs) and window functions, to generate meaningful business insights.
